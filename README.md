@@ -1,4 +1,4 @@
-# bash-colors
+# 🌈 bash-colors
 This is a single reference for bash color/styling because I'm tired of googling it.
 
 # Format
